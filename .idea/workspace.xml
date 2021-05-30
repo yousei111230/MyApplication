@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b82ecf23-2ce7-49bb-8f3f-94782197103d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tGE6TbyjdKGCvqwLQ0E5aAp54v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b82ecf23-2ce7-49bb-8f3f-94782197103d" name="Default Changelist" comment="" />
+      <created>1622386851638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622386851638</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="255" key="FileChooserDialogImpl" timestamp="1622387431294">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="623" y="255" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1622387431294" />
+    <state x="618" y="390" width="268" height="276" key="Github.ShareDialog" timestamp="1622386884294">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="618" y="390" width="268" height="276" key="Github.ShareDialog/0.0.1536.920@0.0.1536.920" timestamp="1622386884294" />
+    <state x="152" y="152" width="1200" height="680" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1622387435106">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="152" y="152" width="1200" height="680" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.920@0.0.1536.920" timestamp="1622387435106" />
+    <state x="570" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622386911083">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="570" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.920@0.0.1536.920" timestamp="1622386911083" />
+    <state x="215" y="243" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1622386917206">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="215" y="243" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1536.920@0.0.1536.920" timestamp="1622386917206" />
+  </component>
+</project>
