@@ -30,7 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -54,24 +54,41 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="623" y="255" key="FileChooserDialogImpl" timestamp="1622387431294">
+    <state x="623" y="255" key="FileChooserDialogImpl" timestamp="1622387592825">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="623" y="255" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1622387431294" />
-    <state x="618" y="390" width="268" height="276" key="Github.ShareDialog" timestamp="1622386884294">
+    <state x="623" y="255" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1622387592825" />
+    <state x="618" y="390" width="268" height="276" key="Github.ShareDialog" timestamp="1622387968018">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="618" y="390" width="268" height="276" key="Github.ShareDialog/0.0.1536.920@0.0.1536.920" timestamp="1622386884294" />
+    <state x="618" y="390" width="268" height="276" key="Github.ShareDialog/0.0.1536.920@0.0.1536.920" timestamp="1622387968018" />
+    <state x="520" y="197" key="Github.UntrackedFilesDialog" timestamp="1622387974719">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="520" y="197" key="Github.UntrackedFilesDialog/0.0.1536.920@0.0.1536.920" timestamp="1622387974719" />
     <state x="152" y="152" width="1200" height="680" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1622387435106">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="152" y="152" width="1200" height="680" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.920@0.0.1536.920" timestamp="1622387435106" />
-    <state x="570" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622386911083">
+    <state x="570" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622387578724">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="570" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.920@0.0.1536.920" timestamp="1622386911083" />
+    <state x="570" y="406" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.920@0.0.1536.920" timestamp="1622387578724" />
+    <state x="554" y="398" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1622387549632">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="554" y="398" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.920@0.0.1536.920" timestamp="1622387549632" />
+    <state x="514" y="386" key="git4idea.ui.GitResetDialog" timestamp="1622387530216">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="514" y="386" key="git4idea.ui.GitResetDialog/0.0.1536.920@0.0.1536.920" timestamp="1622387530216" />
+    <state x="583" y="283" key="svn.repositoryBrowser" timestamp="1622387608078">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="583" y="283" key="svn.repositoryBrowser/0.0.1536.920@0.0.1536.920" timestamp="1622387608078" />
     <state x="215" y="243" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1622386917206">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
